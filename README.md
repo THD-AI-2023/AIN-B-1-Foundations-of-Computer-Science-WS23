@@ -7,6 +7,7 @@ Materials, notes, and resources related to the Foundations of Computer Science c
 - **Exceptions**:
   - December 21st, 2023 but mandatory mid-term registration.
  
+- **Exams**:
   - **Mid-term**: Pass or fail, necessary for written exam admission.
   - **Written Exam**: 90-minute in-person exam with exercises similar to problem sheets.
   - **Take home exam**: Released on December 14th, due on December 21st.
